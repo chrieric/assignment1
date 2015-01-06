@@ -6,6 +6,7 @@ I'm taking Web development and Introduction to Databases.
 I have a one year old daughter and a wife, we live in Huntsville, AL.
 I currently work for Boeing; writing requirements for maintenance and operation
 of dry structure on the SLS (Space Launch System) heavy lift vehicle.
+I hope to change careers soon to focus more on software design and/or programming.
 
 
 Programming Background
