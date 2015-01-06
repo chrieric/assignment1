@@ -1,4 +1,4 @@
-
+Bio
 I enjoy programming, reading, and playing video games.
 Currently I'm playing WoW, Rift, Eve and XCOM:Enemy withing.
 I'm taking Web development and Introduction to Databases.
@@ -6,9 +6,13 @@ I'm taking Web development and Introduction to Databases.
 I have a one year old daughter and a wife, we live in Huntsville, AL.
 I currently work for Boeing; writing requirements for maintenance and operation
 of dry structure on the SLS (Space Launch System) heavy lift vehicle.
+My job is not terribly exciting and I don't believe I have the same passion for aerospace
+as I do for computer science. I've enjoyed all of my classes so far and really enjoy
+both program design and the actual programming process which is a marked difference
+from my feelings towards most aerospace work I've done (both in school and on the job).
 
 
-Programming Backgroun
+Programming Background
 My most extensive experience with programming is in C++ as that is what
 both intro classes CS161 and CS161 were taught using. I've also used
 Javascript, C and Python to varying degrees.
