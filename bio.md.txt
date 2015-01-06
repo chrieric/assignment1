@@ -8,3 +8,8 @@ Programming Backgroun
 My most extensive experience with programming is in C++ as that is what
 both intro classes CS161 and CS161 were taught using. I've also used
 Javascript, C and Python to varying degrees.
+
+I think I've most enjoyed programming using Python as it is relatively
+simple to understand and implement and as I enjoy using whitespace for formatting
+and dilineating scope Python works very well with my mindset. That being said I
+much prefer the way in which C++ handles objects and object functions (particuarly inheritance).
